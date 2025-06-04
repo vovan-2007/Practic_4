@@ -1,0 +1,14 @@
+C:\Users\vinil\source\repos\lab4\lab4t13\bin\Release\net8.0\lab4t13.exe
+C:\Users\vinil\source\repos\lab4\lab4t13\bin\Release\net8.0\lab4t13.deps.json
+C:\Users\vinil\source\repos\lab4\lab4t13\bin\Release\net8.0\lab4t13.runtimeconfig.json
+C:\Users\vinil\source\repos\lab4\lab4t13\bin\Release\net8.0\lab4t13.dll
+C:\Users\vinil\source\repos\lab4\lab4t13\bin\Release\net8.0\lab4t13.pdb
+C:\Users\vinil\source\repos\lab4\lab4t13\obj\Release\net8.0\lab4t13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\lab4\lab4t13\obj\Release\net8.0\lab4t13.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\lab4\lab4t13\obj\Release\net8.0\lab4t13.AssemblyInfo.cs
+C:\Users\vinil\source\repos\lab4\lab4t13\obj\Release\net8.0\lab4t13.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\lab4\lab4t13\obj\Release\net8.0\lab4t13.dll
+C:\Users\vinil\source\repos\lab4\lab4t13\obj\Release\net8.0\refint\lab4t13.dll
+C:\Users\vinil\source\repos\lab4\lab4t13\obj\Release\net8.0\lab4t13.pdb
+C:\Users\vinil\source\repos\lab4\lab4t13\obj\Release\net8.0\lab4t13.genruntimeconfig.cache
+C:\Users\vinil\source\repos\lab4\lab4t13\obj\Release\net8.0\ref\lab4t13.dll
