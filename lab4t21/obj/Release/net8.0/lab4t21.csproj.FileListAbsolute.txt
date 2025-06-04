@@ -1,0 +1,14 @@
+C:\Users\vinil\source\repos\lab4\lab4t21\bin\Release\net8.0\lab4t21.exe
+C:\Users\vinil\source\repos\lab4\lab4t21\bin\Release\net8.0\lab4t21.deps.json
+C:\Users\vinil\source\repos\lab4\lab4t21\bin\Release\net8.0\lab4t21.runtimeconfig.json
+C:\Users\vinil\source\repos\lab4\lab4t21\bin\Release\net8.0\lab4t21.dll
+C:\Users\vinil\source\repos\lab4\lab4t21\bin\Release\net8.0\lab4t21.pdb
+C:\Users\vinil\source\repos\lab4\lab4t21\obj\Release\net8.0\lab4t21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinil\source\repos\lab4\lab4t21\obj\Release\net8.0\lab4t21.AssemblyInfoInputs.cache
+C:\Users\vinil\source\repos\lab4\lab4t21\obj\Release\net8.0\lab4t21.AssemblyInfo.cs
+C:\Users\vinil\source\repos\lab4\lab4t21\obj\Release\net8.0\lab4t21.csproj.CoreCompileInputs.cache
+C:\Users\vinil\source\repos\lab4\lab4t21\obj\Release\net8.0\lab4t21.dll
+C:\Users\vinil\source\repos\lab4\lab4t21\obj\Release\net8.0\refint\lab4t21.dll
+C:\Users\vinil\source\repos\lab4\lab4t21\obj\Release\net8.0\lab4t21.pdb
+C:\Users\vinil\source\repos\lab4\lab4t21\obj\Release\net8.0\lab4t21.genruntimeconfig.cache
+C:\Users\vinil\source\repos\lab4\lab4t21\obj\Release\net8.0\ref\lab4t21.dll
